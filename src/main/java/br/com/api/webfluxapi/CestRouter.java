@@ -9,7 +9,7 @@ import static org.springframework.web.reactive.function.server.RequestPredicates
 import org.springframework.web.reactive.function.server.RouterFunction;
 import org.springframework.web.reactive.function.server.RouterFunctions;
 
-@Configuration
+//@Configuration
 public class CestRouter {
     
     @Bean

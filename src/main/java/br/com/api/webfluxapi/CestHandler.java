@@ -11,7 +11,7 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 import static org.springframework.web.reactive.function.server.ServerResponse.ok;
 import reactor.core.publisher.Mono;
 
-@Component
+//@Component
 public class CestHandler {
 
     @Autowired
